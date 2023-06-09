@@ -1,0 +1,1 @@
+The ATMEGA2560 on-board the Firebird V has limited write cycles (around 10,000 as per the NEX Robotics). In this project, I have a listener file that is to be run on the ATMEGA2560 in an infinite loop. With serial communication from Raspberry Pi on board the robot with the ATMEGA2560, seamless communication between these both can be achieved.
